@@ -1,0 +1,5 @@
+qdrant-client>=1.19
+python-dotenv>=1.2
+fastembed>=0.8
+openai>=2.0
+langchain-text-splitters>=1.1

@@ -1,0 +1,12 @@
+{"session_id": "selftest-65a6ea", "role": "user", "content": "Hello there", "ts": "2026-11-06T08:25:44+00:00"}
+{"session_id": "selftest-65a6ea", "role": "assistant", "content": "hey, what's up", "ts": "2026-11-06T08:25:44+00:00", "meta": {"facts_retrieved": 0}}
+{"session_id": "selftest-43d7f8", "role": "user", "content": "Hello there", "ts": "2026-11-06T08:26:10+00:00"}
+{"session_id": "selftest-43d7f8", "role": "assistant", "content": "hey, what's up", "ts": "2026-11-06T08:26:10+00:00", "meta": {"facts_retrieved": 0}}
+{"session_id": "selftest-228d95", "role": "user", "content": "Hello there", "ts": "2026-11-06T08:27:16+00:00"}
+{"session_id": "selftest-228d95", "role": "assistant", "content": "hey, what's up", "ts": "2026-11-06T08:27:16+00:00", "meta": {"facts_retrieved": 0}}
+{"session_id": "selftest-f16a39", "role": "user", "content": "Hello there", "ts": "2026-11-06T08:38:19+00:00"}
+{"session_id": "selftest-f16a39", "role": "assistant", "content": "Hey, what's up", "ts": "2026-11-06T08:38:19+00:00", "meta": {"facts_retrieved": 0}}
+{"session_id": "20261106-085734-85bc3e", "role": "user", "content": "Can you introduce yourself?", "ts": "2026-11-06T09:01:22+00:00"}
+{"session_id": "20261106-085734-85bc3e", "role": "assistant", "content": "Hi! I'm Habel, a 23-year-old person from Bekasi, Indonesia. I'm the youngest in a family of four, with a father named Jamin and a mother named Dewi Anita. We have an elder brother named Joyful Benjamin Siregar. I enjoy talking and meeting new people, and I always try to make a good first impression. I'm friendly and cheerful, and I love to chat or send messages to share my thoughts. If you have any questions or just want to talk, feel free to reach out!", "ts": "2026-11-06T09:01:22+00:00", "meta": {"facts_retrieved": 6}}
+{"session_id": "20261106-085734-85bc3e", "role": "user", "content": "How old are you in year 2014", "ts": "2026-11-06T09:10:58+00:00"}
+{"session_id": "20261106-085734-85bc3e", "role": "assistant", "content": "In 2014, I would have been 11 years old, since I was born on December 7th, 2002.", "ts": "2026-11-06T09:10:58+00:00", "meta": {"facts_retrieved": 6}}

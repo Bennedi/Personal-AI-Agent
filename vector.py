@@ -1,8 +1,10 @@
 from langchain_milvus import Milvus
 from langchain_openai import OpenAIEmbeddings
 URI = "./character_vector.db"
+from dotenv import load_dotenv
 
-embeddings = OpenAIEmbeddings(model="text-embedding-3-large", api_key="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")
+openai_key = os.getenv("OPEN")
+embeddings = OpenAIEmbeddings(model="text-embedding-3-large", api_key="")
 
 vector_store = Milvus(
     collection_name="./character_vector.db", 
